@@ -1,3 +1,3 @@
 2nd Year CS student at UChicago
 
-Projects I work on in my spare time
+Filled with fun projects I work on in my spare time
