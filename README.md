@@ -1,1 +1,1 @@
-2nd Year CS student at UChicago
+3rd Year CS student at UChicago
