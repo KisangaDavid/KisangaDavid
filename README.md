@@ -1,1 +1,1 @@
-4th Year student at the University of Chicago studying Computer Science (Machine Learning Specialization) and Economics (Data Science Specialization).
+Graduate from the University of Chicago with a Bachelor of Sciences in Computer Science (Machine Learning Specialization) and Bachelor of Arts in Economics (Data Science Specialization).
